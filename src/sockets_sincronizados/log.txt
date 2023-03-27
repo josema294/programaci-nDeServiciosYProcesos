@@ -1,0 +1,192 @@
+2023-02-24 22:22:22 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-24 22:39:37 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-24 22:39:37 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 10:18:09 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 10:18:09 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 10:25:42 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 10:25:42 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 10:29:27 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 10:29:27 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 10:29:27 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 18:59:33 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 18:59:33 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 18:59:33 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 18:59:33 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 18:59:33 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 19:29:00 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 19:29:48 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 19:30:20 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 19:30:20 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 19:30:20 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+Hola soy el cliente1 que te manda un mensaje
+2023-02-25 19:31:56 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 19:32:01 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 19:32:01 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 19:34:57 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 19:34:57 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 19:48:43 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 19:48:43 Nueva conexión recibida desde: /127.0.0.1
+2023-02-25 19:48:43 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+Hola soy el cliente1 que te ha colado un mensaje en tu log
+2023-02-25 20:48:55 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 20:51:29 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 20:52:19 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 20:53:50 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 20:54:42 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 20:55:36 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 21:20:36 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-25 21:29:16 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:29:23 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:29:27 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:29:49 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:29:58 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:30:53 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:31:10 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:33:34 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:48:04 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:49:19 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-25 21:51:02 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:16:45 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:16:59 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:20:17 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:21:44 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:24:45 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:24:49 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:24:50 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:25:12 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:33:05 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:33:10 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:33:28 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:33:47 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:34:13 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:34:20 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:34:57 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:35:12 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:35:25 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:35:45 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:36:04 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:38:21 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:38:24 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:39:01 Error al iniciar el servidorLa dirección ya se está usando
+2023-02-26 00:39:41 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:50:38 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:51:26 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:53:17 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:53:17 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 00:53:17 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 00:55:51 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 00:55:51 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 01:03:36 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 01:03:36 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 01:03:36 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 01:04:21 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 01:05:05 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 10:52:02 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 10:52:02 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 10:52:02 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 10:52:08 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 10:52:02 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 10:52:32 Hola soy el cliente 2 que te ha colado un mensaje en tu log
+2023-02-26 10:52:02 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 10:53:51 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:00:40 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+--------------------------------------------------------------------------------------------
+2023-02-26 11:00:58 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 11:00:58 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:00:58 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:00:58 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:02:58 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 11:02:58 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:02:58 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:04:21 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 11:04:21 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:04:21 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:04:21 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:08:39 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 11:08:39 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:08:39 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:08:43 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+2023-02-26 11:09:38 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 11:09:38 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:09:38 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:09:41 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:09:38 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:09:42 Hola soy el cliente 2 que te ha colado un mensaje en tu log
+2023-02-26 11:12:35 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 11:12:35 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:12:35 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:12:37 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:12:35 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:29:42 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:38:05 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 11:38:05 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:38:05 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:38:08 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:42:20 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 11:42:20 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:42:20 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:42:23 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:42:20 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:43:48 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:42:20 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:43:53 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:42:20 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:45:54 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:42:20 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:46:40 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:42:20 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:46:49 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:42:20 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 11:46:51 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 11:57:13 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 11:58:52 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15001
+2023-02-26 12:01:31 Error al iniciar el servidor
+2023-02-26 11:58:52 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 11:58:52 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 12:02:42 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 12:02:55 Error al iniciar el servidor
+2023-02-26 12:06:09 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-02-26 12:06:09 Nueva conexión recibida desde: /127.0.0.1
+2023-02-26 12:06:09 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 12:06:12 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 12:06:09 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 12:06:15 Hola soy el cliente 2 que te ha colado un mensaje en tu log
+2023-02-26 12:06:09 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 12:06:30 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-02-26 12:06:09 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 12:07:37 Hola soy el cliente 2 que te ha colado un mensaje en tu log
+2023-02-26 12:09:34 Error al iniciar el servidorjava.net.BindException: La dirección ya se está usando
+2023-02-26 12:16:25 Error al iniciar el servidorjava.net.BindException: La dirección ya se está usando
+2023-02-26 12:16:41 Error al iniciar el servidorjava.net.BindException: La dirección ya se está usando
+2023-02-26 12:17:03 Error al iniciar el servidorjava.net.BindException: La dirección ya se está usando
+2023-02-26 12:06:09 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-02-26 12:20:11 Hola soy el cliente 2 que te ha colado un mensaje en tu log
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+2023-03-01 20:10:00 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-03-01 20:10:23 Error al iniciar el servidorjava.net.BindException: La dirección ya se está usando
+2023-03-01 20:10:00 Nueva conexión recibida desde: /127.0.0.1
+2023-03-01 20:10:00 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-03-01 20:10:35 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-03-01 20:10:00 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-03-01 20:11:35 Hola soy el cliente 2 que te ha colado un mensaje en tu log
+2023-03-01 21:22:46 Error al iniciar el servidorjava.net.BindException: La dirección ya se está usando
+2023-03-01 20:10:00 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-03-01 21:23:08 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-03-01 20:10:00 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-03-01 21:24:46 Hola soy el cliente 2 que te ha colado un mensaje en tu log
+2023-03-03 20:58:13 El servidor arrancado a la espera de conexiones entrantes. Puerto: 15000
+2023-03-03 21:05:03 Error al iniciar el servidorjava.net.BindException: La dirección ya se está usando
+2023-03-03 20:58:13 Nueva conexión recibida desde: /127.0.0.1
+2023-03-03 20:58:13 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-03-03 21:05:29 Hola soy el clietne 1 que te ha colado un mensaje en tu log
+2023-03-03 21:06:30 Error al iniciar el servidorjava.net.BindException: La dirección ya se está usando
+2023-03-03 20:58:13 Un cliente ha entrado al servidor y ha dejado un mensaje en el log
+2023-03-03 21:06:49 Hola soy el cliente 2 que te ha colado un mensaje en tu log
